@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CactusDoinGames
 - 👀 I’m interested in Creating games
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on a game
 - 📫 How to reach me epineuxcactus@gmail.com
 
 <!---
